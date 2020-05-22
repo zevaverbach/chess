@@ -1,0 +1,2 @@
+class NotEnough(Exception):
+    pass
